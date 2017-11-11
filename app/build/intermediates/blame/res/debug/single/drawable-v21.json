@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "Y:\\XUDIP\\BIT_8TH\\Projects\\CollegeApplication\\CollegeApplication\\collegeapplication\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    }
+]

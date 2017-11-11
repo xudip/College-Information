@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "110063907867",
+    "firebase_url": "https://cosmos-college.firebaseio.com",
+    "project_id": "cosmos-college",
+    "storage_bucket": "cosmos-college.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110063907867:android:6f6581a143abe168",
+        "android_client_info": {
+          "package_name": "com.cosmoscollege.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110063907867-jdj3lg7r41ecdvsattjqjjrhuda3vql0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbHjOiuo9CH6dehu9slEGjRGRGiquBXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ed66ada0e0db80406b4b185b61d416f9b1ec343a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sugaste\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_030e16e0e540d88530f54df047070ec0179bc64c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sugaste\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_9b086e6ab2bd1a6ed870c97a8f58d27ff66aa218\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5b46166ef70fee980f86cbfc01118cb5d8ce1392\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sugaste\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_c4a9cf5a0d1aedf8d4063fa0ce7659a550a2095e\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_1193e46d0186e6ee27c6527f9aa888e2c1c40a27\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_543528877d0ddead05222850afd84109c1357de6\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_687ad2e67dfeb077bcbef67f658728273dc13b28\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_36546c70a7f7083c406abcf53610c92deff2e8a5\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_d24df1ac9fd777c7f91f9fbeb7dfa8d14b396c6c\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="11024b82cc1ce0f7136e19b808f261ab81671229">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_26c8bb173ea3bb8d03da8eb98f54e9922f418f0a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Bajra\BackUps\sdk\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_d9b2a5509ddb24d59b3a5161ca9f0a2cf0e11507\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.1_c479041dfd46c29fa2962761805c0539dc9a9b48\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ed8dcae195565176e5fc460e17e92fc0af7779b9\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_434d6cd4c5fbfefda76561370bfaa6fb833d74a1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sugaste\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_b559bca69a7e3ef995a83317a296019bcc5a17f0\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bb79849f85ae4474e8f103dd06bc2946141200b7\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_f9c6689edb1739372a0339f75aa0e9f2785404a7\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d09711954d65e1a1963d3df1023e6629728d03ee\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_148eb57e0c6056736b7c060feb5938287010d67f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sugaste\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_b977304aa9f66af8c78d3e693ab49840f28f64a9\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_5a23da4ce0e5d0d8f4c2f394f1e3c1f223356d2c\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_6ded6d93091e7a255cb10b405873ba45da915bb6\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0c023e9c6861d0f8d1356b1e2d76b568e08fed97\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_5fc47e439eb07529f828835bd3aefd778d99b567\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\libs\GenAsync.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6a58a869c275f3424cffb0c266d1d1c1518e38e7">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync_9bcc0207578c628f6241ca111010fb04d341c44e\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_4169c53e16cbb6a078d6b31bb157f224884e65ff\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_bdb8733ce3f39c5744ba9a849e2f18cd65508d9b\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d6fd2dc286e342f2e917b819aa8d6aa5bd7a55ab">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3e8b0b15a5151b0c40d9fe46887af7928553d74c\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.slider-library-1.1.5_24d5bc8830f9ef948d6a3f37b4a313d3fd7b2fb8\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_52a82ab5edd341abdde31a4f94b7ecf8b35e480a\classes.dex" />
+    </item>
+    <item
+        jar="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="Y:\XUDIP\BIT_8TH\Projects\CollegeApplication\CollegeApplication\collegeapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_262be6658cac64c081fa15a772c032b066629b41\classes.dex" />
+    </item>
+
+</items>

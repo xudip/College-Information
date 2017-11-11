@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/chairmanDesk"
+            android:icon="@drawable/professor"
+            android:title="From Chairman's Desk" />
+        <item
+            android:id="@+id/principalMessage"
+            android:icon="@drawable/ink"
+            android:title="Message From Principal" />
+        <item
+            android:id="@+id/vicePrincipal"
+            android:icon="@drawable/ink"
+            android:title="Message From Vice Principal" />
+        <item
+            android:id="@+id/multitudeOptions"
+            android:icon="@drawable/library"
+            android:title="Multitude of Options" />
+        <item
+            android:id="@+id/applicationProcedure"
+            android:icon="@drawable/exam"
+            android:title="Application Procedure" />
+        <item
+            android:id="@+id/scoreOfOpportunity"
+            android:icon="@drawable/books"
+            android:title="Score of Opportunities" />
+        <item
+            android:id="@+id/pokharaUniversity"
+            android:icon="@drawable/university"
+            android:title="Introdution to University" />
+        <item
+            android:id="@+id/programs"
+            android:icon="@drawable/diploma"
+            android:title="string/programs" />
+
+        <item
+            android:id="@+id/noticeBoard"
+            android:icon="@drawable/diploma"
+            android:title="@string/notice_board" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/contact"
+                android:icon="@mipmap/ic_phone"
+                android:title="Contact" />
+
+        </menu>
+    </item>
+
+</menu>

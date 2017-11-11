@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_blue"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingTop="30dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/togetherToday"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sucessfulTomorrow"
+            android:textColor="@color/orange"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom|right"
+            android:gravity="bottom|right"
+            android:paddingBottom="5dp"
+            android:paddingRight="50dp"
+            android:singleLine="true"
+            android:text="From Chairman's Desk"
+            android:textColor="@color/dark_blue"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:background="@drawable/gradient_orange_rev"></View>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-110dp"
+        android:padding="20dp">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:background="@color/black" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="10dp"
+        android:paddingRight="10dp"
+        android:scrollbarStyle="outsideInset">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:gravity="left|fill_horizontal"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="@string/messageChairman"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+    </ScrollView>
+
+</LinearLayout>

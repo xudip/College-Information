@@ -1,0 +1,361 @@
+<resources>
+    <string name="app_name">Colleges In Nepal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--nav bar item-->
+    <string name="notice_board">Notice Board</string>
+    <string name="programs">Programs</string>
+
+
+    <string name="senderId">110063907867</string>
+    <string name="serverKey">AIzaSyCtAhaUW0-XdFJYA2FdnM1bf2fZQASX6_I</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="togetherToday">Together Today for a</string>
+    <string name="sucessfulTomorrow"><color name="#ff9900">Successful</color> <color name="#ffb84d">Tomorrow</color></string>
+    <string name="messageChairman">Dear Perspective Students\n\n
+        I would like to take an opportunity to express my immense pleasure to welcome you all to the premises of Cosmos College of Management and Technology. From this academic session college activities will be conducted under active and effortful involvement of new management team consisting renowned personalities from the field of engineering and management education having dynamic thought and concept.
+
+        Thanking you\n\n
+        Er. Ldsfl\n\n</string>
+    <string name="applicationProcedure">Application Procedure</string>
+    <string name="eligibility">Eligibility for Admission</string>
+    <string name="forBE">For BE: 10 + 2 or Pro ciency Certi cate in Science (Physical or Biological group) or Diploma in Engineering or equivalent.</string>
+    <string name="selectionProcedure">Selection Procedure</string>
+    <string name="conditions">Candidates fulfilling the stated entry qualifications are required to pass a pre-admission test in order to be considered for selection. The selection will be based on students\' performance in the qualifying examination (10 + 2 or equivalent) and in the pre-admission test.</string>
+    <string name="scholarship">Scholarship</string>
+    <string name="scholarshipText" formatted="false">There are three categories of scholarships available in Cosmos College.\n\n
+        <b>1.</b> Full Scholarship: This covers 100% of all university and college fees. The number of scholarships available in each programme is nearly 5% of the approved number of seats in the programme. The selection for this category of scholarship is administered by Pokhara University.\n\n
+        <b>2.</b> Limited scholarship as percentage of semester and tuition fees is awarded by the college at the time of admission on the basis of\n\n
+            • Merit (performance in qualifying examination and pre-admission test) up to 50%.\n\n
+            • Additional scholarship for students belonging to the category of female dalit under privileged areas.\n\n
+        <b>3.</b> In every semester, high ranking students are awarded scholarship amount as percentage of semester and tuition fees based on performance in the previous semester.\n\n
+            <b>a)</b> In each programme of each intake year, the topper, the second and the third ranking students are awarded 100%, 50% and 25% scholarship respectively.\n\n
+            <b>b)</b> Female college toppers amongst all students of all programmes of all intake years (one in every 48 female students) are awarded 100% scholarship.\n\n
+        If the students in concern obtain the same SGPA, the scholarship amount is shared.\n\n
+        If a student is eligible for two or more kinds of scholarship in a semester, the student will receive the one with a higher value as far as that semester is concerned.</string>
+    <string name="erProgrammes">Bachelor of Engineering Programmes</string>
+    <string name="erProgrammesText">The Engineering programmes in Cosmos provide an excellent all-round technical education with emphasis on practical studies. An engineering graduate will be able to apply analytical and problem-solving skills in resolving technical problems and issues, and incorporate technology in day-to-day life, to facilitate growth and development.</string>
+    <string name="projectWorks">Project Works</string>
+    <string name="elective">Elective Courses</string>
+    <string name="projectWorksText">\nProject work is an integral part of engineering curriculum. These projects are supervised by senior faculty members and to the extent possible by resource persons working in the industry.\n\n
+        Some of the recent projects taken up by engineering students are:\n\n
+        • Target Detection and Simulation through Radar \n
+        • Remote Input Droid System \n
+        • College Search Android Apps \n
+        • Phone Diary Android App \n
+        • Notice Board App \n
+        • Android App \n
+        • Kissan Android app \n
+        • Blood Member \n
+        • Target Detection and Stimulation through Radar \n
+        • Electronic CDMA Network Design &amp; Stimulation \n
+        • Cell Phone Operated Land Rover \n
+        • Solar Panel Clean up (RF Implemented Tech.) \n
+        • License Plate Recognition System \n
+        • Online Games \n
+        • Analysis and Design of Multistory Building></string>
+    <string name="electiveText">\nWith  exibility in course registration, the curriculum is oriented to provide intensive study in the  eld of personal interest. Some of the elective courses offered in the previous years are: \n\n
+        • Data Mining and Warehousing \n
+        • Net Technologies \n
+        • Advanced Java \n
+        • Oracle \n
+        • Aeronautical \n
+        • Telecommunication \n
+        • Optical Fiber \n
+        • Structural Dynamics \n
+        • Hydropower Planning \n
+        • Environmental Impact Assessment \n
+        • Rock Mechanics \n
+        • GIS \n
+        • Satellite Communication</string>
+
+    <!-- IT Faculty -->
+
+    <string name="facultyIT">Bachelor of Engineering in Information Technology</string>
+    <string name="textIT">The BE Information Technology programme has been developed to produce highly skilled and quali ed engineers and professionals related to Information Technology - with expertise on analysis, design and development of information systems and technology, in tune with the modern day requirements.</string>
+    <string name="itFirst">&#160;Engineering Mathematics I\n
+        Physics\n
+        Communication Techniques\n
+        Problem Solving Techniques\n
+        Basic Electrical Engineering\n
+        Programming in C </string>
+    <string name="itSecond">&#160;Engineering Mathematics II\n
+        Network Theory\n
+        Mathematical Foundation of Computer  &#160;Science\n
+        Electronics Devices\n
+        Engineering Drawing\n
+        Object Oriented Programming in C ++</string>
+    <string name="itThird">&#160;Engineering Mathematics III \n
+        Logic Circuits \n
+        Data Structure and Algorithms \n
+        Probability and Queuing Theory \n
+        Web Technology \n
+        Electronic Circuits and Instrumentation</string>
+    <string name="itFourth">&#160;Engineering Mathematics IV \n
+        Microprocessor &amp; Assembly Language &#160;Prog.\n
+        Programming in JAVA \n
+        Database Management Systems \n
+        Software Engineering Fundamentals \n
+        Project I</string>
+    <string name="itFifth">&#160;Applied Operating Systems \n
+        Numerical Methods \n
+        Computer Organization &amp; Architecture \n
+        Organization and Management \n
+        Signal System and Processing \n
+        Principles of Communication</string>
+    <string name="itSixth">&#160;Computer Graphics \n
+        Computer Network \n
+        Intelligent Systems \n
+        Information Systems \n
+        Object Oriented Design &amp; Modeling through &#160;UML \n
+        Project II</string>
+    <string name="itSeventh">&#160;Multimedia Systems \n
+        ICT Project Management \n
+        Business Process and IT Strategy \n
+        Network Programming \n
+        Telecommunications \n
+        Elective I</string>
+    <string name="itEighth">&#160;Mobile and Wireless Communications \n
+        Engineering Economics \n
+        Social and Professional Issues in IT \n
+        Elective II \n
+        Project III (Final Project)</string>
+
+    <!-- Computer Faculty -->
+
+    <string name="bceFaculty">Bachelor in Computer Engineering</string>
+    <string name="textBce">The BE Computer programme provides students with knowledge and skills in hardware and software required for the analysis, design and development of Computer and Information Systems that are demanded by the modern day society and industry.</string>
+    <string name="bceFirst">&#160;Engineering Mathematics I\n
+        Chemistry\n
+        Communication Techniques\n
+        Programming in C\n
+        Basic Electrical Engineering\n
+        Mechanical Workshop</string>
+    <string name="bceSecond">&#160;Engineering Mathematics II\n
+        Physics\n
+        Engineering Drawing\n
+        Object Oriented Programming in C ++\n
+        Thermal Science\n
+        Applied Mechanics I</string>
+    <string name="bceThird">&#160;Engineering Mathematics III\n
+        Data Structure and Algorithms\n
+        Electrical Engineering Materials\n
+        Network Theory\n
+        Electronics Devices and Circuits\n
+        Logic Circuits</string>
+    <string name="bceFourth">&#160;Engineering Mathematics IV\n
+        Instrumentation\n
+        Database Management System\n
+        Programming Technology\n
+        Microprocessors\n
+        Project I</string>
+    <string name="bceFifth">&#160;Numerical Methods\n
+        Probability and Statistics\n
+        Operating Systems\n
+        Computer Architecture\n
+        Computer Graphics\n
+        Theory of Computation</string>
+
+    <string name="bceSixth">&#160;Simulation &amp; Modeling\n
+        Data Communications\n
+        Object Oriented Software Engineering\n
+        Embedded Systems\n
+        Elective I\n
+        Project II (Minor Project)</string>
+
+    <string name="bceSeventh">&#160;Engineering Economics\n
+        Image Processing &amp; Pattern &#160;Recognition\n
+        Artificial Intelligence\n
+        Computer Network\n
+        ICT Project Management\n
+        Elective II (Minor Project)</string>
+
+    <string name="bceEighth">&#160;Digital Signal Analysis and Processing\n
+        Social and Professional issues in IT\n
+        Organization and Management\n
+        Information Systems\n
+        Elective III\n
+        Project III (Final Project)</string>
+
+    <!-- Electronics Faculty-->
+
+    <string name="elxFaculty">Bachelors of Electronics &amp; Communication Engineering</string>
+    <string name="elxText">The BE Electronics and Communication programme equips students with the knowledge and skills required for the analysis, design and development of electronic hardware systems and advanced communication systems with principal focus on digital systems. The programme may be considered as a basic foundation to specialize later in Electronics/Telecommunication/Computer Engineering/ Information Technology.</string>
+    <string name="elxFirst">&#160;Engineering Mathematics I\n
+        Chemistry\n
+        Programming in C\n
+        Communication Techniques\n
+        Mechanical Workshop\n
+        Basic Electrical Engineering</string>
+    <string name="elxSecond">&#160;Engineering Mathematics II\n
+        Physics\n
+        Engineering Drawing\n
+        Object Oriented Programming in C++\n
+        Thermal Science\n
+        Applied Mechanics I</string>
+    <string name="elxThird">&#160;Engineering Mathematics III\n
+        Logic Circuits\n
+        Electromagnetic Fields and Waves\n
+        Network Theory\n
+        Electronic Devices\n
+        Electrical Engineering Materials</string>
+    <string name="elxFourth">&#160;Engineering Mathematics IV\n
+        Instrumentation\n
+        Electronic Circuits\n
+        Microprocessors\n
+        Numerical Methods\n
+        Project 1</string>
+    <string name="elxFifth">&#160;Control System\n
+        Embedded System\n
+        Signal &amp; Systems\n
+        Computer Graphics\n
+        Integrated Digital Electronics\n
+        Probability and Statistics</string>
+    <string name="elxSixth">&#160;Industrial Electronics &amp; Drives\n
+        Analog Communication\n
+        Filter Design\n
+        Computer Organization\n
+        Engineering Economics\n
+        Elective I</string>
+    <string name="elxSeventh">&#160;Research Methodology\n
+        Electromagnetic Propagation &amp; &#160;Antenna\n
+        Digital Communication\n
+        Computer Network\n
+        Digital Signal Processing\n
+        Elective II\n
+        Project II</string>
+    <string name="elxEighth">&#160;Organization and Management\n
+        Telecommunication\n
+        Wireless Communication Technology\n
+        ICT Professional Practice\n
+        Elective III\n
+        Project III</string>
+
+    <!-- Civil Faculty-->
+    <string name="civFaculty">Bachelor of Civil Engineering</string>
+    <string name="civText">The BE Civil programme is focused to provide students with knowledge and skills in planning, design, construction and maintenance of physical and naturally built structures, including works such as bridges, roads, canals, dams and buildings.</string>
+    <string name="civFirst">&#160;Engineering Mathematics I\n
+        Physics\n
+        Thermal Science\n
+        Engineering Drawing\n
+        Programming in C\n
+        Basic Electrical Engineering</string>
+    <string name="civSecond">&#160;Engineering Mathematics II\n
+        Chemistry\n
+        Object Oriented Programming in C ++\n
+        Communication Techniques\n
+        Mechanical Workshop\n
+        Applied Mechanics I</string>
+    <string name="civThird">&#160;Engineering Mathematics III\n
+        Applied Mechanics II\n
+        Civil Engineering Materials\n
+        Fluid Mechanics\n
+        Strength of Materials\n
+        Engineering Geology\n
+        Project I</string>
+    <string name="civFourth">&#160;Probability and Statistics\n
+        Surveying I\n
+        Basic Electronics Engineering\n
+        Numerical Methods\n
+        Hydraulics\n
+        Structural Analysis 1</string>
+    <string name="civFifth">&#160;Building Technology\n
+        Engineering Hydrology\n
+        Structural Analysis II\n
+        Soil Mechanics\n
+        Water Supply Engineering\n
+        Surveying II\n
+        Project II</string>
+    <string name="civSixth">&#160;Irrigation Engineering\n
+        Design of Steel (Limit State) &amp; Timber &#160;Structures\n
+        Foundation Engineering\n
+        Sanitary Engineering\n
+        Concrete Technology &amp; Masonry &#160;Structures\n
+        Survey Field Project</string>
+    <string name="civSeventh">&#160;Design of RCC Structures\n
+        Transportation Engineering I\n
+        Hydropower Engineering\n
+        Estimating and Valuation\n
+        Engineering Economics\n
+        Elective I</string>
+    <string name="civEighth">&#160;Construction Project Management\n
+        Engineering Professional Practice\n
+        Transportation Engineering II\n
+        Elective II\n
+        Project III (Major Project)</string>
+    <string name="messagePrincipal">Message From Principal</string>
+    <string name="textPrincipal">It gives me immense pride and pleasure to welcome you to Cosmos College of Management and Technology (CCMT),
+        a Premier institution for imparting quality learning to young aspirants of 21st Century. It is a matter of great pride that the College has made consistent progress,
+        in last  fteen years, in academic and co-curricular activities. The level of education o ered by this college is up-to- date, comparable to those of the best
+        institutions anywhere in the world and justi ably appropriate to the needs of the country. Overall development of the individual is the goal of education and I,
+        being a Principal of CCMT, aim to groom highly excellent Engineers and Managements professionals with a  ne blend of technological skills and good human values.
+        The college, by providing the most e ective resources and environment, facilitate learning and development of students.
+        We provide our students opportunities to engage in experiments, design work, project work and team work to enhance the learning process.
+        We are proud to be one of the youngest, balanced and experienced faculty groups across the wide spectrum of Engineering and Management colleges in Nepal.
+        The holistic approach of the CCMT stimulates innovation among students by inspiring fresh ideas with di erent perceptiveness,
+        creative thinking and strong conviction to achieve true success. I appreciate teaching as well as non-teaching sta  and students, who are rendering their
+        wholehearted support and co-operation to make the college the centre of excellence. I extend my best wishes to all students in their chosen career path.
+        I wish you all the best for achieving greater success and scaling newer heights in your education and career ahead. \n\n
+        “The future belongs to those who believe in the beauty of their dreams.”</string>
+    <string name="principalName">Dr. Er. Pawan K. Bhattarai</string>
+    <string name="principalQualify">&#160;BE, Civil Engineering (IOE, Pulchowk Campus)\n
+        M.Sc. in Hydropower Development (NTNU, &#160;Norway) \n
+        Postgraduate on Climate Change (UNU, Japan) \n
+        Ph.D. in Civil Engineering (Kyoto University, &#160;Japan)</string>
+    <string name="messageVicePrincipal">Message From Vc.Principal</string>
+    <string name="vcPrincipal">We heartily welcome you to COSMOS COLLEGE OF MANAGEMENT AND ENGINEERING- where the students are very much motivated to exhibit distinguished performance through our team of dedicated and experienced faculty members.
+        The road to success is long one and can’t be achieved by just one milestone of bachelor level graduation. We need to stop here for a while pat ourselves for job well done and move on towards another milestone in life.
+        This is a stepping stone for the unlimited and unfathomed adventure into the  eld of knowledge which, if acquired properly, might bring you imagined brilliancy in the area of your choice for your higher studies.
+        \n\nOur success in transforming every student to a complete professional lies in all round grooming of every student. Along with the normal academic activities, the students are taught to provide best services,
+        to be competitive and create a brand name based on their technical excellence, various training programs, industrial visits, educational tours, lecture series, personality development,
+        and entrepreneurship development programs.
+        \n\nThese programs along with extracurricular activities bring about a synergy of thoughts and action in the student community.
+        Special emphasis is given to make the students proactive to gain upper age in the race of excellence.
+        We inculcate high values in students and encourage them to “Think di erent and act e cient”.
+        The college is fully devoted to provide quality education, upgrade knowledge based hardware to keep abreast with rapidly processing technology and training requirement.
+        We believe in “Excellence in Education” and are concerned about quality assurance, quality management and quality education.
+        \n\n We once again welcome you and wish you all a
+        wonderful learning environment at COSMOS COLLEGE OF MANAGEMENT AND ENGINEERING. \n\n
+        Soma Kanta Khanal\n
+        MA, Mathematics</string>
+    <string name="multitudeOptions">Multitude of Options ...</string>
+    <string name="evaluationText" formatted="false">The internal evaluation of the theory component of each course is made by continuous evaluation which includes term tests, tutorials and assignments. Consistency in attendance is given due consideration.
+        Final grade is awarded by the university in each subject in each semester by providing a weight of 50% each to the internal evaluation (administered by the college) and 50% to the semester-end examination
+        (conducted by the university) after due process of relative grading. However, courses that are fully practical in nature are mostly subjected to internal evaluation only. Semester-end examinations of elective
+        subjects are conducted by respective colleges.</string>
+    <string name="teachingMethodology">Teaching methods at the college are modern and result- oriented. It includes lectures, tutorial works, group discussions, presentations, laboratory works, and computer-aided learning.</string>
+    <string name="facultyandRes">COSMOS has a blend of dynamic youth and strong team of faculty and resource persons comprising of eminent teachers and professionals reputed in their respective field.</string>
+    <string name="councelingText">COSMOS has the tradition of counseling every student individually each semester regarding his/her academic performance. Personal problems, if any, are also dealt with.</string>
+    <string name="guestLectures">Apart from regular classes Cosmos invites reputed personalities as guest lecturers and guest speakers from the  elds of management and technology to impart expert knowledge on their related field.</string>
+    <string name="scoreOfOpportunities">Score of Opportunities</string>
+    <string name="fsuText">The election of the second team of FSU was held on 19th April 2012. The responsibilities of the elected body include \n\n
+        • Organizing creative development activities such a annual Welcome &amp; Farewell Programme and Sport Week.\n\n
+        • Coordinating participation in extra-curricular activitie organized by other colleges.\n\n
+        •Playing pivotal roll in enhancing the academi environment of the college</string>
+    <string name="libraryText">COSMOS has a well facilitated library with books mainl in management and engineering disciplines. Varietie of magazines related to business and technical subjects journals, daily newspapers are made available in orde to keep our students up to date with the latest invention and news of the world. Also students can access e-librar developed by the College.</string>
+    <string name="emailText">COSMOS is a free wi-  zone. We also have a dedicate computer facility for students to research online and t check personal email.</string>
+    <string name="researchTeamText">A group of enthusiasts from BE (Electronics an Communication) formed a Cosmos Electronics Research Team (CERT) to explore working of basic electronics with control programming skills. It aims at promoting team spirit, leadership skills and event organizing skills.</string>
+    <string name="achievementText">• Secured 1st position in Hardware Competition 2014, organized by Kathmandu University on 21 - 22 December 2014.\n\n
+        • Secured second position in the event, Aakriti Shape your Ideas, a technological and architectural festival held from 12 -14 December, 2014 by Kathmandu Engineering College.\n\n
+        • Conducted workshops and competitions every year to encourage students.</string>
+    <string name="canteenText">Canteens are located in convenient points within the college at both Annexes. The canteen provides snacks and full meals at reasonable costs, keeping hygiene and quality intact.</string>
+    <string name="transportText">We provide reliable transportation services to and from the College within the Kathmandu Valley, subject to reasonable number of students seeking the facility.</string>
+    <string name="curricularText">At Cosmos we believe that co-curricular activities play an important role in one\'s academic, intellectual and professional development. Student clubs in Cosmos include ICT Club, Civil Society, CERT, Robotics Club and Cosmos Literary Stream. \n\n
+        The college facilitates participation in intra as well as inter events. The college organized an inter-college Engineering Expo in 2012.</string>
+    <string name="ecaText">COSMOS values the role of extracurricular activities and sports in one\'s overall development as supplementary to academic and intellectual achievement. The college facilitates participation in intra and inter collegiate sports.\n\n
+        The college provides facilities for outdoor games such as basketball and volleyball and indoor games like table tennis.</string>
+    <string name="pokharaUniversity">Introduction of Pokhara University</string>
+    <string name="universityText">Pokhara University was established in 1997 A.D. under the Pokhara University Act 1997. The university offers different programmes at Bachelors, Masters, M. Phil. and Ph.D. levels, covering the fields of management, engineering, health sciences, humanities and social sciences. In the field of management it offers seven programmes in Bachelors and six in Masters levels. Similarly, in Science and Technology the university offers sixteen Bachelors and eight Masters level programmes. In Humanities and Social Sciences, it runs one programme in Bachelors level and three in Masters level. Nearly sixteen thousand students have graduated from the University. Currently more than twenty five thousand students are registered as regular students.
+        The university follows the semester system of education.</string>
+    <string name="creditText">Each course is assigned a certain number of credits depending on its lecture and practical hours in a week. In theory courses, one lecture per week is assigned one credit.</string>
+    <string name="creditTransferText" formatted="false">Credit hours of course work completed in an equivalent programme of a recognized institution may be transferred for credit. Such credit hours may not be more than 25% of the total credit hours of the concerned Pokhara University programme. Credits earned in Pokhara University are also accepted for transfer in universities abroad.</string>
+    <string name="gradingText">Pokhara University follows grading system to evaluate students\' performance. The grading system is an international standard system. The grade awarded to a student in a course is based on his/her consolidated performance in sessional and  nal examinations. The letter grade in any particular subject is an indication of a student\'s relative performance in that course.</string>
+    <string name="minCgpa">Minimum CGPA required at the completion of a Bachelors Degree progamme is given below:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
